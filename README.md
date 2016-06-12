@@ -1,5 +1,10 @@
-# hello-world
-Program to print " Hello World !!! "
-This is new Edit
-Nothing is removed
-All green
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+
+cout<<"Hello World !"<<endl;
+
+return 0;
+}
