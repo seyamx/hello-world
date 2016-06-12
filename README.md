@@ -1,10 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-int main(){
-
-cout<<"Hello World !"<<endl;
-
-return 0;
-}
+#Hello World
+This is a program to print 
+Hello world on the screen using c++
